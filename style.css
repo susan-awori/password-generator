@@ -5,6 +5,7 @@ body {
   align-items: center;
   margin: 0;
   font-family: "Courier New", Courier, monospace;
+  background-color: beige;
 }
 
 .password-container {
@@ -78,6 +79,7 @@ body {
   justify-content: center;
   align-items: center;
   font-size: 25px;
+  transition: 0.4s;
 }
 
 .active.alert-container {
